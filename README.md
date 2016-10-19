@@ -3,7 +3,7 @@ Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, 
 
 ## IPython Notebooks:
 
-* [Chapter 2: 實例介紹](http://nbviewer.ipython.org/github/HuskyHsu/Python-for-Data-Analysis/blob/master/ch02.ipynb)
+* [Chapter 2: Introductory examples 實例介紹](http://nbviewer.ipython.org/github/HuskyHsu/Python-for-Data-Analysis/blob/master/ch02.ipynb)
 * [Chapter 4: NumPy Basics](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/master/ch04.ipynb)
 * [Chapter 5: Getting Started with Pandas](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/master/ch05.ipynb)
 * [Chapter 6: Data Loading, Storage, and File Formats](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/master/ch06.ipynb)
